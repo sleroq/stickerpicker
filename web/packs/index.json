@@ -1,7 +1,9 @@
 {
   "packs": [
     "OughtFedsSeism_by_fStikBot.json",
-    "fly_me_to_the_moon.json"
+    "fly_me_to_the_moon.json",
+    "mousey_sweater.json",
+    "BebopCowboy.json"
   ],
   "homeserver_url": "https://m.sleroq.link"
 }
